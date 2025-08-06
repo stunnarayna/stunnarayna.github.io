@@ -23,7 +23,7 @@
       }
       .container{
         display: flex;
-        min-height: 400px;
+        min-height: 50px;
       }
       .sidebar{
         background-color: beige;
